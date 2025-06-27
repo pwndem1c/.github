@@ -34,7 +34,7 @@ We're always looking for:
 - Exploit devs, challenge builders, and tinkerers
 - People who want to learn, and document everything
 
-> Join the Discord: [discord.gg/YOUR-LINK-HERE](https://discord.gg/3htneMY5g9)  
+> Join the Discord: [discord.gg/3htneMY5g9](https://discord.gg/3htneMY5g9)  
 > Come hang out, lurk, or contribute. No pressure — but high bandwidth expected.
 
 ---
