@@ -21,7 +21,7 @@ We're not just a team — we're a virus in the machine.
 
 | Repo | Description |
 |------|-------------|
-| [writeups](https://github.com/pwndem1c/writeups) | All of our CTF writeups — structured, searchable, and updated often. |
+| [writeups](https://github.com/pwndem1c/writeups) | All of our CTF writeups — structured, searchable, and updated occasionally. |
 | [custom-tools](https://github.com/pwndem1c/custom-tools) | Tools, payload generators, exploit scripts, recon helpers, and more. |
 | [docs](https://github.com/pwndem1c/docs) | Knowledge base, onboarding guides, payload cheat sheets, and templates. |
 
@@ -32,7 +32,7 @@ We're not just a team — we're a virus in the machine.
 We're always looking for:
 - New CTF players (any skill level — we train our own)
 - Exploit devs, challenge builders, and tinkerers
-- People who learn fast, meme hard, and document everything
+- People who want to learn, and document everything
 
 > Join the Discord: [discord.gg/YOUR-LINK-HERE](https://discord.gg/3htneMY5g9)  
 > Come hang out, lurk, or contribute. No pressure — but high bandwidth expected.
